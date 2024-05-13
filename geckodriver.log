@@ -1,0 +1,1035 @@
+1655895702075	geckodriver	INFO	Listening on 127.0.0.1:62535
+1655895705168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62536" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile6XGM0O"
+1655895706097	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62536
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile6XGM0O\\search.json.mozlz4", (void 0)))
+1655895708914	Marionette	INFO	Listening on port 62562
+DevTools listening on ws://localhost:62536/devtools/browser/08cc411f-f604-4b11-9514-a12375655b26
+Read port: 62562
+1655895708987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655895810172	geckodriver	INFO	Listening on 127.0.0.1:62650
+1655895813247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile9VdrkE"
+1655895813910	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62651
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile9VdrkE\\search.json.mozlz4", (void 0)))
+1655895816439	Marionette	INFO	Listening on port 62678
+Read port: 62678
+1655895816495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62651/devtools/browser/c589fa25-532d-4c63-8c07-2fada8b4c468
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655895856809	geckodriver	INFO	Listening on 127.0.0.1:62731
+1655895859888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62732" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileoQZHmx"
+1655895860583	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62732
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileoQZHmx\\search.json.mozlz4", (void 0)))
+1655895863226	Marionette	INFO	Listening on port 62759
+DevTools listening on ws://localhost:62732/devtools/browser/c3770a38-2c2a-4a09-836e-63f2e4a34e20
+Read port: 62759
+1655895863345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655895911654	geckodriver	INFO	Listening on 127.0.0.1:62812
+1655895914715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile6ct3N8"
+1655895915484	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62813
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile6ct3N8\\search.json.mozlz4", (void 0)))
+1655895917953	Marionette	INFO	Listening on port 62840
+Read port: 62840
+DevTools listening on ws://localhost:62813/devtools/browser/e63d614a-cf22-42e9-8141-8eb200092735
+1655895917989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655895976678	geckodriver	INFO	Listening on 127.0.0.1:62903
+1655895979747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilemutptd"
+1655895980356	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62904
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilemutptd\\search.json.mozlz4", (void 0)))
+1655895983011	Marionette	INFO	Listening on port 62930
+DevTools listening on ws://localhost:62904/devtools/browser/e2a61366-ea14-4bdc-8bf6-a4ac77b12b34
+Read port: 62930
+1655895983130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655896357069	geckodriver	INFO	Listening on 127.0.0.1:63226
+1655896360154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileHcytl1"
+1655896361071	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63227
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileHcytl1\\search.json.mozlz4", (void 0)))
+1655896363847	Marionette	INFO	Listening on port 63255
+DevTools listening on ws://localhost:63227/devtools/browser/b3be641a-836d-4e97-bbc5-5539fd437bd7
+Read port: 63255
+1655896363957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655896499674	geckodriver	INFO	Listening on 127.0.0.1:63365
+1655896502763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63366" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile5geueJ"
+1655896503581	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63366
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile5geueJ\\search.json.mozlz4", (void 0)))
+1655896506382	Marionette	INFO	Listening on port 63392
+DevTools listening on ws://localhost:63366/devtools/browser/a73e6181-6c7b-4dc9-88a4-1a6bd9dd3b86
+Read port: 63392
+1655896506456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655896535915	geckodriver	INFO	Listening on 127.0.0.1:63439
+1655896538990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile5njadM"
+1655896539722	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63440
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile5njadM\\search.json.mozlz4", (void 0)))
+1655896542362	Marionette	INFO	Listening on port 63468
+DevTools listening on ws://localhost:63440/devtools/browser/28fb81e4-53f3-444b-bb4d-8f01b1fbcd5e
+Read port: 63468
+1655896542481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655896557356	Marionette	INFO	Stopped listening on port 63468
+1655896935254	geckodriver	INFO	Listening on 127.0.0.1:63712
+1655896938325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileM0vzHC"
+1655896938978	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63713
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileM0vzHC\\search.json.mozlz4", (void 0)))
+1655896941640	Marionette	INFO	Listening on port 63739
+Read port: 63739
+1655896941690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:63713/devtools/browser/bd75ca29-611f-405e-b1a5-1a993bd606ed
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655897046400	geckodriver	INFO	Listening on 127.0.0.1:63819
+1655897049480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileugwkW4"
+1655897050269	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63820
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileugwkW4\\search.json.mozlz4", (void 0)))
+1655897052695	Marionette	INFO	Listening on port 63850
+Read port: 63850
+1655897052731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:63820/devtools/browser/4e6930e8-569c-4fd9-9a32-3a4b60b26716
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655897071895	Marionette	INFO	Stopped listening on port 63850
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655897739690	geckodriver	INFO	Listening on 127.0.0.1:64376
+1655897742773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileT2hvKj"
+1655897743586	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64377
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileT2hvKj\\search.json.mozlz4", (void 0)))
+1655897747194	Marionette	INFO	Listening on port 64409
+Read port: 64409
+DevTools listening on ws://localhost:64377/devtools/browser/ee5bac36-c044-4f3b-9974-efda56d1c179
+1655897747238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655897992014	geckodriver	INFO	Listening on 127.0.0.1:64580
+1655897995102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileF7T0LE"
+1655897995948	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64581
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileF7T0LE\\search.json.mozlz4", (void 0)))
+1655897998712	Marionette	INFO	Listening on port 64607
+DevTools listening on ws://localhost:64581/devtools/browser/7e0d5dd1-6b27-4be0-bb5b-f0825e012e65
+Read port: 64607
+1655897998796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655898046035	geckodriver	INFO	Listening on 127.0.0.1:64669
+1655898049116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileGZQJsA"
+1655898049730	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64670
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileGZQJsA\\search.json.mozlz4", (void 0)))
+1655898052322	Marionette	INFO	Listening on port 64697
+DevTools listening on ws://localhost:64670/devtools/browser/376f12cb-43de-45ce-a3df-c8b367a3626e
+Read port: 64697
+1655898052367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655898063547	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655898065576	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655898067837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655898070144	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655909863665	geckodriver	INFO	Listening on 127.0.0.1:53832
+1655909866721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileDqVNBk"
+1655909867926	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53833
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileDqVNBk\\search.json.mozlz4", (void 0)))
+1655909871962	Marionette	INFO	Listening on port 53862
+DevTools listening on ws://localhost:53833/devtools/browser/098d14b4-710e-40d4-a20e-c8080d946314
+Read port: 53862
+1655909872090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655910044774	geckodriver	INFO	Listening on 127.0.0.1:54018
+1655910047835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilesetx7m"
+1655910048723	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54019
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilesetx7m\\search.json.mozlz4", (void 0)))
+1655910052853	Marionette	INFO	Listening on port 54046
+DevTools listening on ws://localhost:54019/devtools/browser/98307ee8-c6f6-4829-964e-2d075e3b8c04
+Read port: 54046
+1655910052999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655910068845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655910071131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655910073393	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655910105590	geckodriver	INFO	Listening on 127.0.0.1:54187
+1655910108646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilexSMIG7"
+1655910109746	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54188
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilexSMIG7\\search.json.mozlz4", (void 0)))
+1655910113516	Marionette	INFO	Listening on port 54222
+DevTools listening on ws://localhost:54188/devtools/browser/eec1af79-6fbc-42c6-9982-4bf4202afbdc
+Read port: 54222
+1655910113575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655910127626	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655910129638	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655910131920	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655910491100	geckodriver	INFO	Listening on 127.0.0.1:54534
+1655910494163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileWM9VpU"
+1655910494580	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54535
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileWM9VpU\\search.json.mozlz4", (void 0)))
+1655910496417	Marionette	INFO	Listening on port 54558
+Read port: 54558
+1655910496487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:54535/devtools/browser/014ffe73-a696-4cd7-8165-0b3db56f80e3
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655910505575	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655910507695	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655910511659	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655911825678	geckodriver	INFO	Listening on 127.0.0.1:55726
+1655911828741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilexBiZ5y"
+1655911829302	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55727
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilexBiZ5y\\search.json.mozlz4", (void 0)))
+1655911831232	Marionette	INFO	Listening on port 55755
+Read port: 55755
+1655911831301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:55727/devtools/browser/3b04965c-a015-444e-8eb8-b6dd672324e4
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655912103038	geckodriver	INFO	Listening on 127.0.0.1:56018
+1655912106105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileE4EOZo"
+1655912106602	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56019
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileE4EOZo\\search.json.mozlz4", (void 0)))
+1655912108319	Marionette	INFO	Listening on port 56044
+DevTools listening on ws://localhost:56019/devtools/browser/200c6bcc-fd8d-4b85-9b3d-fb072f73bd43
+Read port: 56044
+1655912108439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655912264908	geckodriver	INFO	Listening on 127.0.0.1:56208
+1655912267948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile4Y2wSj"
+1655912268309	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56209
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile4Y2wSj\\search.json.mozlz4", (void 0)))
+1655912269942	Marionette	INFO	Listening on port 56233
+DevTools listening on ws://localhost:56209/devtools/browser/6e426e60-a2a3-4052-b540-e2c1670d2d86
+Read port: 56233
+1655912270050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655912287998	geckodriver	INFO	Listening on 127.0.0.1:56280
+1655912291039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileHVBfoz"
+1655912291516	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56281
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileHVBfoz\\search.json.mozlz4", (void 0)))
+1655912293239	Marionette	INFO	Listening on port 56306
+Read port: 56306
+1655912293254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:56281/devtools/browser/9231fd41-2e81-4600-aa73-1b77bec04d46
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655913186151	geckodriver	INFO	Listening on 127.0.0.1:56959
+1655913189206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilegmhN02"
+1655913189692	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56960
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilegmhN02\\search.json.mozlz4", (void 0)))
+1655913191601	Marionette	INFO	Listening on port 56986
+DevTools listening on ws://localhost:56960/devtools/browser/f0da8eb1-3de5-4a57-8fc1-d60efe75eda7
+Read port: 56986
+1655913191661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655914193883	geckodriver	INFO	Listening on 127.0.0.1:57597
+1655914196959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57598" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilewUAX1P"
+1655914197464	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57598
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilewUAX1P\\search.json.mozlz4", (void 0)))
+1655914199135	Marionette	INFO	Listening on port 57624
+DevTools listening on ws://localhost:57598/devtools/browser/59618fea-d0a0-4118-8bc6-11a74c1cdf3b
+Read port: 57624
+1655914199183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655914482376	geckodriver	INFO	Listening on 127.0.0.1:57867
+1655914485434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileQ3BHTY"
+1655914485785	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57868
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileQ3BHTY\\search.json.mozlz4", (void 0)))
+1655914487392	Marionette	INFO	Listening on port 57891
+DevTools listening on ws://localhost:57868/devtools/browser/c2bf5303-d609-4ec4-ba06-bf753039aa05
+Read port: 57891
+1655914487443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655914497017	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655914498767	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655914501002	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655914503259	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1655915985526	geckodriver	INFO	Listening on 127.0.0.1:58947
+1655915988585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58948" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilehtuQ1o"
+1655915996597	geckodriver	INFO	Listening on 127.0.0.1:58968
+1655915999653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilelwoOH0"
+1655916000079	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58969
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilelwoOH0\\search.json.mozlz4", (void 0)))
+1655916002002	Marionette	INFO	Listening on port 58997
+Read port: 58997
+DevTools listening on ws://localhost:58969/devtools/browser/ee659823-ff15-4f8a-a114-38427b3b7e29
+1655916002099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+1655916011978	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655916013730	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655916015958	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655916018207	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: uncaught exception: Object
+1655916035975	Marionette	INFO	Stopped listening on port 58997
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655916925318	geckodriver	INFO	Listening on 127.0.0.1:59537
+1655916928385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59538" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile8WwEsd"
+1655916929384	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59538
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile8WwEsd\\search.json.mozlz4", (void 0)))
+1655916932182	Marionette	INFO	Listening on port 59563
+DevTools listening on ws://localhost:59538/devtools/browser/50b1cdb8-aa38-4146-af92-a8b556179cb9
+Read port: 59563
+1655916932367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 2113: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/1886819e855f5d5d68cc.js, line 4183: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: uncaught exception: Object
+1655916979420	Marionette	INFO	Stopped listening on port 59563
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655917608605	geckodriver	INFO	Listening on 127.0.0.1:59937
+1655917611649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59938" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile0m7CsJ"
+1655917612636	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59938
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile0m7CsJ\\search.json.mozlz4", (void 0)))
+1655917615652	Marionette	INFO	Listening on port 59965
+DevTools listening on ws://localhost:59938/devtools/browser/0d784481-7c0c-4710-8b64-fb3524438f49
+Read port: 59965
+1655917615770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655917625362	Marionette	INFO	Stopped listening on port 59965
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655917645722	geckodriver	INFO	Listening on 127.0.0.1:60053
+1655917648765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileZ83jzA"
+1655917649406	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60054
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileZ83jzA\\search.json.mozlz4", (void 0)))
+1655917652145	Marionette	INFO	Listening on port 60079
+DevTools listening on ws://localhost:60054/devtools/browser/7cacd929-3483-4ca5-bd37-79316e37a098
+Read port: 60079
+1655917652268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655917657986	Marionette	INFO	Stopped listening on port 60079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655917854007	geckodriver	INFO	Listening on 127.0.0.1:60253
+1655917857142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60254" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileaGZngC"
+1655917857948	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60254
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileaGZngC\\search.json.mozlz4", (void 0)))
+1655917861017	Marionette	INFO	Listening on port 60278
+DevTools listening on ws://localhost:60254/devtools/browser/aaf01cb8-aa40-46a8-938f-3a951494b6e5
+Read port: 60278
+1655917861148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655917870897	Marionette	INFO	Stopped listening on port 60278
+1655978067010	geckodriver	INFO	Listening on 127.0.0.1:61313
+1655978177089	geckodriver	INFO	Listening on 127.0.0.1:61368
+1655978180144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileo6oWeo"
+1655978180690	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61369
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileo6oWeo\\search.json.mozlz4", (void 0)))
+1655978182483	Marionette	INFO	Listening on port 61391
+DevTools listening on ws://localhost:61369/devtools/browser/71531145-ea86-4eb3-8054-5b643c6e88be
+Read port: 61391
+1655978182589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655978182591	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"194.163.142.145:3128","sslProxy":"194.163.142.145:3128"}
+1655978205533	Marionette	INFO	Stopped listening on port 61391
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655978233575	geckodriver	INFO	Listening on 127.0.0.1:61433
+1655978236625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofiletGaxAh"
+1655978236965	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61434
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofiletGaxAh\\search.json.mozlz4", (void 0)))
+1655978238602	Marionette	INFO	Listening on port 61460
+DevTools listening on ws://localhost:61434/devtools/browser/a51c5070-1f29-477a-a8bb-60393d679321
+Read port: 61460
+1655978238636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/e3ca7b40c280039b9898.js, line 2114: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/e3ca7b40c280039b9898.js, line 4186: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/e3ca7b40c280039b9898.js, line 4186: unreachable code after return statement
+1655978244974	Marionette	INFO	Stopped listening on port 61460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655978576190	geckodriver	INFO	Listening on 127.0.0.1:61572
+1655978582581	geckodriver	INFO	Listening on 127.0.0.1:61581
+1655978597221	geckodriver	INFO	Listening on 127.0.0.1:61597
+1655978758685	geckodriver	INFO	Listening on 127.0.0.1:61692
+1655978761752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilewsmd9q"
+1655978762379	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61693
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilewsmd9q\\search.json.mozlz4", (void 0)))
+1655978764530	Marionette	INFO	Listening on port 61724
+Read port: 61724
+1655978764558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655978764561	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61691","sslProxy":"127.0.0.1:61691"}
+DevTools listening on ws://localhost:61693/devtools/browser/db768d89-d7d3-427f-85ab-72c7554906f6
+JavaScript warning: https://discord.com/assets/e3ca7b40c280039b9898.js, line 2114: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/e3ca7b40c280039b9898.js, line 4186: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/e3ca7b40c280039b9898.js, line 4186: unreachable code after return statement
+1655978786335	Marionette	INFO	Stopped listening on port 61724
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655978795564	geckodriver	INFO	Listening on 127.0.0.1:61784
+1655978798633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileiEMBfj"
+1655978799102	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61785
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileiEMBfj\\search.json.mozlz4", (void 0)))
+1655978800936	Marionette	INFO	Listening on port 61807
+Read port: 61807
+1655978800984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655978800986	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61783","sslProxy":"127.0.0.1:61783"}
+DevTools listening on ws://localhost:61785/devtools/browser/26c3664c-a929-480c-9d37-ef02ee8d3de3
+JavaScript warning: https://discord.com/assets/e3ca7b40c280039b9898.js, line 2114: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/e3ca7b40c280039b9898.js, line 4186: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/e3ca7b40c280039b9898.js, line 4186: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://discord.com/assets/e3ca7b40c280039b9898.js, line 6160: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+1656065328917	geckodriver	INFO	Listening on 127.0.0.1:49361
+1656065332028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49362" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilejlEbnH"
+1656065332962	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49362
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilejlEbnH\\search.json.mozlz4", (void 0)))
+1656065335815	Marionette	INFO	Listening on port 49390
+Read port: 49390
+1656065335865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656065335868	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49360","sslProxy":"127.0.0.1:49360"}
+DevTools listening on ws://localhost:49362/devtools/browser/770dad63-2ed9-4bb2-992b-347ebf1d2427
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656065391188	Marionette	INFO	Stopped listening on port 49390
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656065406284	geckodriver	INFO	Listening on 127.0.0.1:49497
+1656065409320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49498" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilen3am5c"
+1656065410020	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49498
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilen3am5c\\search.json.mozlz4", (void 0)))
+1656065412531	Marionette	INFO	Listening on port 49530
+DevTools listening on ws://localhost:49498/devtools/browser/0ae3aa1f-1a96-4578-abd8-8a203bc0eb1d
+Read port: 49530
+1656065412670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656065412675	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49496","sslProxy":"127.0.0.1:49496"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+1656065442528	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656065444785	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656065447075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656065468141	Marionette	INFO	Stopped listening on port 49530
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656065601099	geckodriver	INFO	Listening on 127.0.0.1:49663
+1656065604162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilepKCLkp"
+1656065604799	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49670
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilepKCLkp\\search.json.mozlz4", (void 0)))
+1656065607583	Marionette	INFO	Listening on port 49693
+DevTools listening on ws://localhost:49670/devtools/browser/6c14d33b-47eb-415a-94a8-7acc8915a842
+Read port: 49693
+1656065607682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656065607687	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49662","sslProxy":"127.0.0.1:49662"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967304/customhighlighter34, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onNewSelection@resource://devtools/client/inspector/markup/markup.js:989:29\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nsetNodeFront@resource://devtools/client/framework/selection.js:206:10\nonDetached@resource://devtools/client/inspector/inspector.js:1693:20\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonTargetDestroyed@resource://devtools/client/framework/selection.js:161:12\n_onTargetDestroyed@resource://devtools/client/framework/toolbox.js:780:22\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onTargetDestroyed@resource://devtools/shared/commands/target/target-command.js:277:28\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onTargetDestroyed@resource://devtools/client/fronts/watcher.js:74:12\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonPacket@resource://devtools/shared/protocol/Front.js:336:13\nonPacket@resource://devtools/client/devtools-client.js:482:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+1656066481651	geckodriver	INFO	Listening on 127.0.0.1:50224
+1656066484704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileFFKj21"
+1656066485502	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50225
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileFFKj21\\search.json.mozlz4", (void 0)))
+1656066488358	Marionette	INFO	Listening on port 50252
+DevTools listening on ws://localhost:50225/devtools/browser/c5b16abe-b2ba-4867-8c40-02a6999602eb
+Read port: 50252
+1656066488509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656066488514	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50223","sslProxy":"127.0.0.1:50223"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+1656066519266	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656066521559	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656066523804	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656066526078	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656066724156	geckodriver	INFO	Listening on 127.0.0.1:50498
+1656066747859	geckodriver	INFO	Listening on 127.0.0.1:50515
+1656066750934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileQBktM7"
+1656066752042	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50516
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileQBktM7\\search.json.mozlz4", (void 0)))
+1656066755754	Marionette	INFO	Listening on port 50540
+Read port: 50540
+DevTools listening on ws://localhost:50516/devtools/browser/6c9e4d9e-801e-48af-b706-a37a731c9253
+1656066755843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656066755848	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50514","sslProxy":"127.0.0.1:50514"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+1656066770008	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656066772036	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656066774261	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656066876783	geckodriver	INFO	Listening on 127.0.0.1:50647
+1656066879870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilenqaaR7"
+1656066880844	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50648
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilenqaaR7\\search.json.mozlz4", (void 0)))
+1656066885391	Marionette	INFO	Listening on port 50673
+DevTools listening on ws://localhost:50648/devtools/browser/c0248138-6744-4443-8ab3-591ebda0c480
+Read port: 50673
+1656066885504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656066885510	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50646","sslProxy":"127.0.0.1:50646"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+1656066897326	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656066899069	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656067043308	geckodriver	INFO	Listening on 127.0.0.1:50757
+1656067046362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilepEJGMo"
+1656067047236	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50758
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilepEJGMo\\search.json.mozlz4", (void 0)))
+1656067051187	Marionette	INFO	Listening on port 50782
+DevTools listening on ws://localhost:50758/devtools/browser/5105987b-6d11-4098-a1d4-94afd7736e43
+Read port: 50782
+1656067051309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656067051315	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50756","sslProxy":"127.0.0.1:50756"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656067131675	geckodriver	INFO	Listening on 127.0.0.1:50864
+1656067134720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileOujzB5"
+1656067135618	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50865
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileOujzB5\\search.json.mozlz4", (void 0)))
+1656067139615	Marionette	INFO	Listening on port 50890
+Read port: 50890
+1656067139684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656067139690	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50863","sslProxy":"127.0.0.1:50863"}
+DevTools listening on ws://localhost:50865/devtools/browser/afa68660-9739-41f6-aac4-da315f216cc4
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+1656067152092	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656067154218	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656067156248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656067158547	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656067208091	geckodriver	INFO	Listening on 127.0.0.1:50965
+1656067211150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileirvQrS"
+1656067212086	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50966
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileirvQrS\\search.json.mozlz4", (void 0)))
+1656067216053	Marionette	INFO	Listening on port 50990
+Read port: 50990
+1656067216134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656067216140	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50964","sslProxy":"127.0.0.1:50964"}
+DevTools listening on ws://localhost:50966/devtools/browser/465b0ec7-cc67-445b-86e9-8daa762c4521
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656067327332	geckodriver	INFO	Listening on 127.0.0.1:51111
+1656067330368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile20eBRC"
+1656067331394	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51112
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile20eBRC\\search.json.mozlz4", (void 0)))
+1656067335606	Marionette	INFO	Listening on port 51148
+Read port: 51148
+DevTools listening on ws://localhost:51112/devtools/browser/172a0cc7-2655-4463-bfe9-3a097c36f04b
+1656067335711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656067335717	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51110","sslProxy":"127.0.0.1:51110"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656143091866	geckodriver	INFO	Listening on 127.0.0.1:59815
+1656143094911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile9a06Nu"
+1656143095917	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59816
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofile9a06Nu\\search.json.mozlz4", (void 0)))
+1656143098731	Marionette	INFO	Listening on port 59842
+DevTools listening on ws://localhost:59816/devtools/browser/b923a58e-52b4-4fb3-a44b-f55254978c94
+Read port: 59842
+1656143098790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656143098794	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59814","sslProxy":"127.0.0.1:59814"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+1656143111657	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656143232198	geckodriver	INFO	Listening on 127.0.0.1:59984
+1656143235239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileRApTp5"
+1656143235910	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59985
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileRApTp5\\search.json.mozlz4", (void 0)))
+1656143238884	Marionette	INFO	Listening on port 60010
+DevTools listening on ws://localhost:59985/devtools/browser/fafde814-9142-420e-b210-a90b8bb9bd73
+Read port: 60010
+1656143238984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656143238988	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59983","sslProxy":"127.0.0.1:59983"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+1656143250216	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656143251977	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656143351225	geckodriver	INFO	Listening on 127.0.0.1:60156
+1656143354596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilewL3E8p"
+1656143355335	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60157
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilewL3E8p\\search.json.mozlz4", (void 0)))
+1656143358158	Marionette	INFO	Listening on port 60181
+Read port: 60181
+1656143358216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656143358220	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60155","sslProxy":"127.0.0.1:60155"}
+DevTools listening on ws://localhost:60157/devtools/browser/9fc45c5a-4edd-4487-894e-f7b95eb568f8
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656143404696	geckodriver	INFO	Listening on 127.0.0.1:60283
+1656143407714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60284" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileYA2Rle"
+1656143408496	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60284
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileYA2Rle\\search.json.mozlz4", (void 0)))
+1656143411211	Marionette	INFO	Listening on port 60315
+Read port: 60315
+DevTools listening on ws://localhost:60284/devtools/browser/56cffe97-42f5-485e-a241-6684abba34fe
+1656143411302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656143411305	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60282","sslProxy":"127.0.0.1:60282"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+1656143422332	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656143427547	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656143520955	geckodriver	INFO	Listening on 127.0.0.1:60437
+1656143524034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileqn2S4y"
+1656143524730	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60438
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileqn2S4y\\search.json.mozlz4", (void 0)))
+1656143527418	Marionette	INFO	Listening on port 60462
+DevTools listening on ws://localhost:60438/devtools/browser/c9802713-82ad-4484-af23-1a234aaf3e1b
+Read port: 60462
+1656143527507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656143527511	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60436","sslProxy":"127.0.0.1:60436"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+1656143540066	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656143540798	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656143543056	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656143545343	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656143723107	Marionette	INFO	Stopped listening on port 60462
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656143896418	geckodriver	INFO	Listening on 127.0.0.1:60617
+1656143899451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilet6WDBf"
+1656143900010	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60618
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilet6WDBf\\search.json.mozlz4", (void 0)))
+1656143903022	Marionette	INFO	Listening on port 60717
+DevTools listening on ws://localhost:60618/devtools/browser/50a3b882-ae6f-4efb-9dc8-cf3b19d0dca9
+Read port: 60717
+1656143903085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656143903089	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60616","sslProxy":"127.0.0.1:60616"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656144006647	geckodriver	INFO	Listening on 127.0.0.1:60858
+1656144009874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileW7eOtV"
+1656144010553	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60859
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileW7eOtV\\search.json.mozlz4", (void 0)))
+1656144013894	Marionette	INFO	Listening on port 60887
+DevTools listening on ws://localhost:60859/devtools/browser/36afb2d9-4c92-4a2a-95ba-450681796c63
+Read port: 60887
+1656144014016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656144014019	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60857","sslProxy":"127.0.0.1:60857"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656144244631	geckodriver	INFO	Listening on 127.0.0.1:61064
+1656144247678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileWupnW4"
+1656144248246	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61065
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileWupnW4\\search.json.mozlz4", (void 0)))
+1656144250734	Marionette	INFO	Listening on port 61088
+DevTools listening on ws://localhost:61065/devtools/browser/25dd3137-e9d1-48e4-a3aa-8686821e772b
+Read port: 61088
+1656144250816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656144250819	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61063","sslProxy":"127.0.0.1:61063"}
+1656144254242	Marionette	INFO	Stopped listening on port 61088
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656144261161	geckodriver	INFO	Listening on 127.0.0.1:61135
+1656144264192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61136" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileyncrvQ"
+1656144264690	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61136
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileyncrvQ\\search.json.mozlz4", (void 0)))
+1656144267145	Marionette	INFO	Listening on port 61162
+DevTools listening on ws://localhost:61136/devtools/browser/79218ef2-c6ac-46d2-9490-344afc9ecbf1
+Read port: 61162
+1656144267269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656144267272	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61134","sslProxy":"127.0.0.1:61134"}
+1656144291882	Marionette	INFO	Stopped listening on port 61162
+1656144307203	geckodriver	INFO	Listening on 127.0.0.1:61295
+1656144310517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileOwRv3c"
+1656144311159	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61296
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofileOwRv3c\\search.json.mozlz4", (void 0)))
+1656144313725	Marionette	INFO	Listening on port 61323
+DevTools listening on ws://localhost:61296/devtools/browser/c62bdc7f-a620-4ff1-81ce-f8b60aba2fc9
+Read port: 61323
+1656144313776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656144313780	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61294","sslProxy":"127.0.0.1:61294"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript error: https://discord.com/assets/8cdf600873d1c69152ae.js, line 40: ChunkLoadError: Loading chunk 81697 failed.
+(error: https://discord.com/assets/a286b06eceed8919311a.js)
+JavaScript error: https://discord.com/assets/8cdf600873d1c69152ae.js, line 40: ChunkLoadError: Loading chunk 81697 failed.
+(error: https://discord.com/assets/a286b06eceed8919311a.js)
+JavaScript error: https://discord.com/assets/8cdf600873d1c69152ae.js, line 40: ChunkLoadError: Loading chunk 91596 failed.
+(error: https://discord.com/assets/1097866274648af5edf0.js)
+JavaScript error: https://discord.com/assets/8cdf600873d1c69152ae.js, line 40: ChunkLoadError: Loading chunk 92224 failed.
+(error: https://discord.com/assets/b4499d2a6b9046b1b402.js)
+1656144345365	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656144488872	Marionette	INFO	Stopped listening on port 61323
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656144503581	geckodriver	INFO	Listening on 127.0.0.1:61516
+1656144506625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilebfwasG"
+1656144507182	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61517
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abdul\\AppData\\Local\\Temp\\rust_mozprofilebfwasG\\search.json.mozlz4", (void 0)))
+1656144509793	Marionette	INFO	Listening on port 61547
+DevTools listening on ws://localhost:61517/devtools/browser/f1d905c5-c5c9-40ae-8177-e916faedf1c8
+Read port: 61547
+1656144509856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656144509860	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61515","sslProxy":"127.0.0.1:61515"}
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 2115: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/9203984985b99f5b24df.js, line 4187: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discord.com"
+1656144615769	Marionette	INFO	Stopped listening on port 61547
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
